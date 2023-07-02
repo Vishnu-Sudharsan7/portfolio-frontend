@@ -42,12 +42,9 @@ const Portfolio = () => {
           
           <div className='Btn-class'><a href={item.link1} target='blank' className='btn'>
           <AiOutlineAppstore className='portfolio-logo'/>
-          Playstore
+          Projectlink
           </a>
-          <a href='https://apps.apple.com/in/app/soulocal/id1630926421' target='blank' className='btn'>
-          <SiAppstore className='portfolio-logo'/>
-          Appstore
-          </a></div>
+          </div>
 
           </div>
           
